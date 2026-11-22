@@ -1,0 +1,11 @@
+# legislative Department Pages
+# This file contains all the pages/governments/departments/legislative available under the Department
+#
+layout: grid
+title: 'Sangguniang Panlungsod of Quezon City'
+description: 'Members of the Sangguniang Panlungsod (City Council) for the 2025 to 2028 term.'
+pages:
+  - name: 'Gian Carlo G. Sotto'
+    description: 'Vice Mayor and Presiding Officer'
+  - name: 'Council members'
+    description: 'The list of councilors for 2025 to 2028 is being verified by volunteers.'

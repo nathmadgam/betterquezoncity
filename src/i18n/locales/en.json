@@ -1,0 +1,28 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "services": "Services",
+    "language": "Language"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register"
+  },
+  "hero": {
+    "title": "Better Quezon City",
+    "subtitle": "A community-run portal for Quezon City, Metro Manila",
+    "cta": "Get Started"
+  },
+  "footer": {
+    "copyright": "© 2026 Better Quezon City. Community-run, not an official government website.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
